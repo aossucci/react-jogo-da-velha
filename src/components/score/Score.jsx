@@ -12,7 +12,7 @@ function Score() {
           <h2>0</h2>
         </div>
         <div className={styles.scoreContent}>
-          <Icon iconName="X" />
+          <Icon iconName="x" />
           <h2>0</h2>
         </div>
       </div>
